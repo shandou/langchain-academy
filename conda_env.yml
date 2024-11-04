@@ -1,0 +1,6 @@
+name: lc-academy-py3.11
+dependencies:
+  - python=3.11.9
+  - pip
+  - pip:
+      - poetry
